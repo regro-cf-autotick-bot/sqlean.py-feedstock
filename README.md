@@ -261,7 +261,7 @@ Feedstock Maintainers
 =====================
 
 * [@RogerHYang](https://github.com/RogerHYang/)
-
-
-<!-- dummy commit to enable rerendering -->
+* [@anticorrelator](https://github.com/anticorrelator/)
+* [@axiomofjoy](https://github.com/axiomofjoy/)
+* [@mikeldking](https://github.com/mikeldking/)
 
