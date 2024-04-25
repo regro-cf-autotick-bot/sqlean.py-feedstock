@@ -261,4 +261,7 @@ Feedstock Maintainers
 =====================
 
 * [@RogerHYang](https://github.com/RogerHYang/)
+* [@anticorrelator](https://github.com/anticorrelator/)
+* [@axiomofjoy](https://github.com/axiomofjoy/)
+* [@mikeldking](https://github.com/mikeldking/)
 
