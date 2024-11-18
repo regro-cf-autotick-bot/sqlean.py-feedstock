@@ -1,16 +1,16 @@
 {% set name = "sqlean.py" %}
-{% set version = "3.45.1" %}
+{% set version = "3.47.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlean.py-{{ version }}.tar.gz
-  sha256: 25fbf0a111856e0384dbc412156e2e688948525c7d8609dc3803512c70130740
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlean_py-{{ version }}.tar.gz
+  sha256: 86a540b2d9ca44ae2b0b56fb067bf13095945a9bf113b3ea623e4867aab16ac2
 
 build:
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
 
 requirements:
